@@ -1,0 +1,10 @@
+site_name: napari-nmr-reader
+site_description: A napari plugin to read NMR spectra
+site_author: Miguel Arbesú
+
+theme: readthedocs
+
+repo_url: https://github.com/miguelarbesu/napari-nmr-reader
+
+pages:
+- Home: index.md
